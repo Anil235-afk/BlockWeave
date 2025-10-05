@@ -326,7 +326,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **🌟 Join the Permanent Web Revolution**
 
-Blockweave is more than just storage - it's the foundation for a permanent, uncensorable internet where human knowledge and creativity can flourish forever. Join us in building the future of data LermanencE!
+Blockweave is more than just storage - it's the foundation for a permanent, uncensorable internet where human knowledge and creativity can flourish forever. Join us in building the future of data LOrmanencE!
 
 
 contract address :- 0xB67C54adCbfCb8354a92b99b61ae7ba287956dC2
